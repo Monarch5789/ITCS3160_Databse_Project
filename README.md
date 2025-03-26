@@ -4,10 +4,12 @@ Repository guide
 
 Commit/Push Summaries:
 
-|| + - Content was added
-|| / - Content was changed
-|| - - Content was removed
-|| x -> z - The content z inside of x was +, -, or /'ed
+```
++ - Content was added
+/ - Content was changed
+- - Content was removed
+x -> z - The content z inside of x was +, -, or /'ed
+```
 
 When downloading this repositories content through GitHub desktop, do NOT store it in any folder controlled by a third party (OneDrive, iCloud, etc) as this may damage information.
 
