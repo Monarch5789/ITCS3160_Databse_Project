@@ -1,8 +1,8 @@
-This is the repository for the database project assignment in ITCS 3160-002, Spring 2025.
+**This is the repository for the database project assignment in ITCS 3160-002, Spring 2025.**
 
-Repository guide
+# Repository guide
 
-Commit/Push Summaries:
+## Commit/Push Summaries:
 
 ```
 + - Content was added
@@ -15,7 +15,7 @@ When downloading this repositories content through GitHub desktop, do NOT store 
 
 Verify that when making changes you are not making alterations to the same file as someone else at the same time, as this may lead to merge conflicts (use pull requests).
 
-Tools used:
+## Tools used:
 ```
 SQLite -> https://www.sqlite.org 
 SQLiteStudio -> https://github.com/pawelsalawa/sqlitestudio/releases
