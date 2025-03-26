@@ -16,8 +16,7 @@ When downloading this repositories content through GitHub desktop, do NOT store 
 Verify that when making changes you are not making alterations to the same file as someone else at the same time, as this may lead to merge conflicts (use pull requests).
 
 ## Tools used:
-```
-SQLite -> https://www.sqlite.org 
-SQLiteStudio -> https://github.com/pawelsalawa/sqlitestudio/releases
-SQliteTutorial -> https://www.sqlitetutorial.net/
-```
+[SQLite](https://www.sqlite.org)  
+[SQLiteStudio](https://github.com/pawelsalawa/sqlitestudio/releases)  
+[SQliteTutorial](https://www.sqlitetutorial.net/)
+***
