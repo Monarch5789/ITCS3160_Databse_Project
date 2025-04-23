@@ -56,5 +56,9 @@ INSERT INTO Sales (Order_ID, Product_ID, Product_Price, Cashier_ID, Customer_ID)
 INSERT INTO Sales (Order_ID, Product_ID, Product_Price, Cashier_ID, Customer_ID) VALUES (1004, 3, 80.0, 6, 4);
 INSERT INTO Sales (Order_ID, Product_ID, Product_Price, Cashier_ID, Customer_ID) VALUES (1005, 5, 80.0, 7, 5);
 
+
+CREATE INDEX idx_rewardsmember
+ON Customer (Is_Rewards_Member);
+
 COMMIT TRANSACTION;
 PRAGMA foreign_keys = on;
